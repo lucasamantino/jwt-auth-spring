@@ -9,7 +9,7 @@ This project is a practical example of authentication and authorization using **
 
 ## Technologies Used
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Security
 - JWT
